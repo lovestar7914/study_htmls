@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  font-size: 60px;
+}
+
+p {
+  font-size: 25px;
+  line-height: 50px;
+}
+</style>
+</head>
+<body>
+
+<div>This is heading 1</div>
+<div>This is heading 2</div>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+</body>
+</html>
