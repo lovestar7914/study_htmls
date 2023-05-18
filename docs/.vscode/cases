@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>bootstrap 5 Example</title>
+  
+</h1> My first Bootstrap Page
+</h1>Resize this responsive page to see the offect!<h1></h1>
+
+div class="coi">Line 1 of the poem</div>
+  <div class="co1">Line 2 of the poem</div>
+</head>
+<body>
