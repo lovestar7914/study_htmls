@@ -1,0 +1,18 @@
+ body{
+   class="text-muted bg-primary m-4">This text is muted.</div>
+  <div class="text-primarybg-seuccess mb-4">This text is important.</div>
+  <div class="text-success bg-info mx-4">This text indicates success.</div>
+  <div class="text-info p-4">This text represents some information.</div>
+  <div class="text-warning">This text represents a warning.</div>
+  <div class="text-danger">This text represents danger.</div>
+ }
+ p
+  bockground: url ('images/bg2.png');
+       bockground:no-repeat;
+       bockground-position to right;
+       bockground-attaachment:fixed;
+      
+      container{
+        height:100vh;
+    }
+      
